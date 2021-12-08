@@ -2,7 +2,9 @@
 * 🎓 I studied Mechatornics Engineering for my undergrad.
 * 🚀 Currently pursuing Masters Of Engineering in Aerospace engineering specializing in Robotics.
 * 👀 I am interested in embedded systems, controls engineering and robotics.
-* 🍁 I am from [Toronto](https://www.toronto.ca/), Canada.\
+* 🍁 I am from [Toronto](https://www.toronto.ca/), Canada.
+\
+\
 Learn more about me by visiting my [website](https://bhavisheythapar.com/).
 
 <!---
