@@ -1,7 +1,7 @@
 * 👋 Hi, I am Bhavishey Thapar.
 * 🎓 I studied Mechatornics Engineering for my undergrad.
 * 🚀 Currently pursuing Masters of Engineering in Aerospace engineering specializing in Robotics and Masters in Artificial Intelligence.
-*🤖 I am interested in embedded systems, controls engineering and robotics.
+* 🤖 I am interested in embedded systems, controls engineering and robotics.
 * 🍁 I am from [Toronto](https://www.toronto.ca/), Canada.
 \
 \
