@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [bhavisheythapar.com](https://bhavisheythapar.com/)
 
-- 📫 How to reach me **bhavisheythapar@gmail.com**
+- 📫 How to reach me bhavisheythapar@gmail.com
 
 - 📄 Know about my experiences [Resume](https://nbviewer.org/github/bhavisheythapar/Resume/blob/master/Resume.pdf)
 
